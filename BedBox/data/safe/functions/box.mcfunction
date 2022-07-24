@@ -1,0 +1,1 @@
+tellraw @a {"text":"Safe","color":"green","clickEvent":{"action":"run_command","value":"/function safe:person"}}
