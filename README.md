@@ -2,9 +2,21 @@
 
 When downloaded go to Start Menu for windows
 
-go to the minecraft folder then go to Saves then press on the world that you want to add it to
+then type "run"
 
-then goto Datapacks then go to Minecraft Launcher then launch 1.19
+then in run type %appdata%
+
+then go to roaming
+
+then .minecraft
+
+and then saves 
+
+go to the put the Datapack in the world folder AKA your world name
+
+then Datapacks
+
+drag or copy then paste the Datapack in it
 
 then do /reload and /function safe:box (i think)
 
