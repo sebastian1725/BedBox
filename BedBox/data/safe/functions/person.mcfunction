@@ -1,3 +1,5 @@
+tellraw @s {"text":"By BashYT","color":"white"}
+
 execute at @s run fill ~ ~ ~ ~10 ~10 ~10 bedrock hollow
 
 execute at @s run title @s title {"text":"Done already ok"}
